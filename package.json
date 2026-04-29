@@ -4,7 +4,6 @@
   "description": "E-CycleSA - South Africa's Electronics Recycling Platform",
   "private": true,
   "author": "Sello Kgole <skgole6@gmail.com>",
-  "homepage": "https://github.com/sello-bot/ecyclesa",
   "repository": {
     "type": "git",
     "url": "https://github.com/sello-bot/ecyclesa.git"
@@ -25,8 +24,8 @@
     "lucide-react": "^0.263.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "^5.0.1",
-    "web-vitals": "^5.1.0"
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
